@@ -1,0 +1,18 @@
+footer{
+    position: absolute;
+    top: 80%; 
+    padding-top: 20px;
+    background-color: #D7D5D5;
+}
+
+@media (min-width: 350px){ 
+    footer{
+        left: 0px;
+    }
+}
+
+@media (min-width: 376px){ 
+    footer{
+        left: auto;
+    }
+}
